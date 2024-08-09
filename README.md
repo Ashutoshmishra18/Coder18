@@ -18,4 +18,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ashutoshmishra18/Coder18/tree/master/0004-median-of-two-sorted-arrays) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Ashutoshmishra18/Coder18/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
