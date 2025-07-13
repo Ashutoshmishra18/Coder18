@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Ashutoshmishra18/Coder18/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ashutoshmishra18/Coder18/tree/master/0004-median-of-two-sorted-arrays) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Ashutoshmishra18/Coder18/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,4 +40,16 @@
 |  |
 | ------- |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Ashutoshmishra18/Coder18/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
+## Two Pointers
+|  |
+| ------- |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Ashutoshmishra18/Coder18/tree/master/2497-maximum-matching-of-players-with-trainers) |
+## Greedy
+|  |
+| ------- |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Ashutoshmishra18/Coder18/tree/master/2497-maximum-matching-of-players-with-trainers) |
+## Sorting
+|  |
+| ------- |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Ashutoshmishra18/Coder18/tree/master/2497-maximum-matching-of-players-with-trainers) |
 <!---LeetCode Topics End-->
