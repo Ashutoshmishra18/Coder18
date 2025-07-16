@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Ashutoshmishra18/Coder18/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ashutoshmishra18/Coder18/tree/master/0004-median-of-two-sorted-arrays) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Ashutoshmishra18/Coder18/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Ashutoshmishra18/Coder18/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Ashutoshmishra18/Coder18/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Ashutoshmishra18/Coder18/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Memoization
 |  |
 | ------- |
