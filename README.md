@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Ashutoshmishra18/Coder18/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ashutoshmishra18/Coder18/tree/master/0004-median-of-two-sorted-arrays) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ashutoshmishra18/Coder18/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Ashutoshmishra18/Coder18/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Ashutoshmishra18/Coder18/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Ashutoshmishra18/Coder18/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -69,9 +70,18 @@
 ## String
 |  |
 | ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ashutoshmishra18/Coder18/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3396-valid-word](https://github.com/Ashutoshmishra18/Coder18/tree/master/3396-valid-word) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Ashutoshmishra18/Coder18/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+## Depth-First Search
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ashutoshmishra18/Coder18/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+## Trie
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ashutoshmishra18/Coder18/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 <!---LeetCode Topics End-->
