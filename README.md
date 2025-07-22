@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Ashutoshmishra18/Coder18/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ashutoshmishra18/Coder18/tree/master/0004-median-of-two-sorted-arrays) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ashutoshmishra18/Coder18/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1813-maximum-erasure-value](https://github.com/Ashutoshmishra18/Coder18/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Ashutoshmishra18/Coder18/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Ashutoshmishra18/Coder18/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Ashutoshmishra18/Coder18/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -16,6 +17,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ashutoshmishra18/Coder18/tree/master/0001-two-sum) |
+| [1813-maximum-erasure-value](https://github.com/Ashutoshmishra18/Coder18/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Ashutoshmishra18/Coder18/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Binary Search
 |  |
@@ -93,4 +95,8 @@
 |  |
 | ------- |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Ashutoshmishra18/Coder18/tree/master/2079-delete-duplicate-folders-in-system) |
+## Sliding Window
+|  |
+| ------- |
+| [1813-maximum-erasure-value](https://github.com/Ashutoshmishra18/Coder18/tree/master/1813-maximum-erasure-value) |
 <!---LeetCode Topics End-->
